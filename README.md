@@ -32,10 +32,3 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-测试登录账号 {
-  13666666666 风控
-  13555555555
-  13345345435
-  18664317540 客户经理
-}
